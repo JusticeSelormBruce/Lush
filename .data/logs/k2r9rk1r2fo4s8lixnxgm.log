@@ -1,0 +1,4 @@
+{"checkId":"k2r9rk1r2fo4s8lixnxgm","protocol":"https","successCodes":[200,201],"url":"yahoo.com","timeoutSeconds":3,"method":"GET","phone":"0555514455","state":"down","checkOutcome":{"error":false,"responseCode":301},"lastCheck":1674223180508}
+{"checkId":"k2r9rk1r2fo4s8lixnxgm","protocol":"https","successCodes":[200,201],"url":"yahoo.com","timeoutSeconds":3,"method":"GET","phone":"0555514455","state":"down","checkOutcome":{"error":false,"responseCode":301},"lastCheck":1674223240594}
+{"checkId":"k2r9rk1r2fo4s8lixnxgm","protocol":"https","successCodes":[200,201],"url":"yahoo.com","timeoutSeconds":3,"method":"GET","phone":"0555514455","state":"down","checkOutcome":{"error":false,"responseCode":301},"lastCheck":1674223300580}
+{"checkId":"k2r9rk1r2fo4s8lixnxgm","protocol":"https","successCodes":[200,201],"url":"yahoo.com","timeoutSeconds":3,"method":"GET","phone":"0555514455","state":"down","checkOutcome":{"error":false,"responseCode":301},"lastCheck":1674223360532}

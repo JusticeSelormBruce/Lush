@@ -1,0 +1,1 @@
+{"checkId":"pojl56k35s1qylpel3yp3","protocol":"https","successCodes":[300,301],"url":"localhost:3000/","timeoutSeconds":3,"method":"GET","phone":"0546301714","state":"down","checkOutcome":{"error":{"error":true,"value":{"errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"::1","port":443}},"responseCode":false},"lastCheck":1674223359841}
